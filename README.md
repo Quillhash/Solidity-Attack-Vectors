@@ -2,6 +2,8 @@
 
 This Repository contains list of Solidity Attack Vectors. It includes most solidity vulnerabilities collected from various sources like SWC Registry, DeFi threat, DASP Top-10 and contents all over Internet. You can click each attack vectors and find details about it. This repository will be actively maintained and updated by QuillAudits.
 
+#### If you find any attack vectors missing, you call create a pull request and be a contributor of the project.
+
 
 ---
 Serial No. | Attack Vectors
