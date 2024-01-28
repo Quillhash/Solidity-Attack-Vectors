@@ -6,7 +6,7 @@ This Repository contains list of Solidity Attack Vectors. It includes most solid
 
 ![](/mindmaps/Solidity_Vectors_QuillAudits.png)
 
-**PDF Version**: [Solidity_Vectors_QuillAudits.pdf](/mindmaps/Solidity_Vectors_QuillAudits.pdf)
+**PDF Version**: [Solidity_Vectors_QuillAudits.pdf](/mindmaps/Solidity_Vectors_QuillAudits.png)
 
 ---
 Serial No. | Attack Vectors
